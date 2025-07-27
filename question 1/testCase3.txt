@@ -1,0 +1,131 @@
+# --- ADD 100 BLOCKS ---
+A 100 Title_100 anime
+A 101 Title_101 study
+A 102 Title_102 study
+A 103 Title_103 anime
+A 104 Title_104 anime
+A 105 Title_105 study
+A 106 Title_106 study
+A 107 Title_107 anime
+A 108 Title_108 anime
+A 109 Title_109 study
+A 110 Title_110 study
+A 111 Title_111 anime
+A 112 Title_112 anime
+A 113 Title_113 study
+A 114 Title_114 study
+A 115 Title_115 anime
+A 116 Title_116 anime
+A 117 Title_117 study
+A 118 Title_118 study
+A 119 Title_119 anime
+A 120 Title_120 anime
+A 121 Title_121 study
+A 122 Title_122 study
+A 123 Title_123 anime
+A 124 Title_124 anime
+A 125 Title_125 study
+A 126 Title_126 study
+A 127 Title_127 anime
+A 128 Title_128 anime
+A 129 Title_129 study
+A 130 Title_130 study
+A 131 Title_131 anime
+A 132 Title_132 anime
+A 133 Title_133 study
+A 134 Title_134 study
+A 135 Title_135 anime
+A 136 Title_136 anime
+A 137 Title_137 study
+A 138 Title_138 study
+A 139 Title_139 anime
+A 140 Title_140 anime
+A 141 Title_141 study
+A 142 Title_142 study
+A 143 Title_143 anime
+A 144 Title_144 anime
+A 145 Title_145 study
+A 146 Title_146 study
+A 147 Title_147 anime
+A 148 Title_148 anime
+A 149 Title_149 study
+A 150 Title_150 study
+A 151 Title_151 anime
+A 152 Title_152 anime
+A 153 Title_153 study
+A 154 Title_154 study
+A 155 Title_155 anime
+A 156 Title_156 anime
+A 157 Title_157 study
+A 158 Title_158 study
+A 159 Title_159 anime
+A 160 Title_160 anime
+A 161 Title_161 study
+A 162 Title_162 study
+A 163 Title_163 anime
+A 164 Title_164 anime
+A 165 Title_165 study
+A 166 Title_166 study
+A 167 Title_167 anime
+A 168 Title_168 anime
+A 169 Title_169 study
+A 170 Title_170 study
+A 171 Title_171 anime
+A 172 Title_172 anime
+A 173 Title_173 study
+A 174 Title_174 study
+A 175 Title_175 anime
+A 176 Title_176 anime
+A 177 Title_177 study
+A 178 Title_178 study
+A 179 Title_179 anime
+A 180 Title_180 anime
+A 181 Title_181 study
+A 182 Title_182 study
+A 183 Title_183 anime
+A 184 Title_184 anime
+A 185 Title_185 study
+A 186 Title_186 study
+A 187 Title_187 anime
+A 188 Title_188 anime
+A 189 Title_189 study
+A 190 Title_190 study
+A 191 Title_191 anime
+A 192 Title_192 anime
+A 193 Title_193 study
+A 194 Title_194 study
+A 195 Title_195 anime
+A 196 Title_196 anime
+A 197 Title_197 study
+A 198 Title_198 study
+A 199 Title_199 anime
+
+# --- FIND A FEW ---
+F 100
+F 150
+F 199
+F 888
+# --- DELETE SOME ---
+R 101
+R 111
+R 121
+R 131
+R 141
+R 151
+R 161
+R 171
+R 181
+R 191
+R 1000
+# --- PRINT CURRENT STATE ---
+P
+
+# --- PRINT REVERSE ---
+PR
+
+# --- SORT BY TYPE ---
+S anime
+S study
+
+# --- FINAL PRINT ---
+P

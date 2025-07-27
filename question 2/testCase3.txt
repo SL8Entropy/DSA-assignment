@@ -1,0 +1,131 @@
+# --- ADD 100 BLOCKS ---
+A 1000 Task_1000 Success
+A 1001 Task_1001 Fail
+A 1002 Task_1002 Success
+A 1003 Task_1003 Fail
+A 1004 Task_1004 Success
+A 1005 Task_1005 Fail
+A 1006 Task_1006 Success
+A 1007 Task_1007 Fail
+A 1008 Task_1008 Success
+A 1009 Task_1009 Fail
+A 1010 Task_1010 Success
+A 1011 Task_1011 Fail
+A 1012 Task_1012 Success
+A 1013 Task_1013 Fail
+A 1014 Task_1014 Success
+A 1015 Task_1015 Fail
+A 1016 Task_1016 Success
+A 1017 Task_1017 Fail
+A 1018 Task_1018 Success
+A 1019 Task_1019 Fail
+A 1020 Task_1020 Success
+A 1021 Task_1021 Fail
+A 1022 Task_1022 Success
+A 1023 Task_1023 Fail
+A 1024 Task_1024 Success
+A 1025 Task_1025 Fail
+A 1026 Task_1026 Success
+A 1027 Task_1027 Fail
+A 1028 Task_1028 Success
+A 1029 Task_1029 Fail
+A 1030 Task_1030 Success
+A 1031 Task_1031 Fail
+A 1032 Task_1032 Success
+A 1033 Task_1033 Fail
+A 1034 Task_1034 Success
+A 1035 Task_1035 Fail
+A 1036 Task_1036 Success
+A 1037 Task_1037 Fail
+A 1038 Task_1038 Success
+A 1039 Task_1039 Fail
+A 1040 Task_1040 Success
+A 1041 Task_1041 Fail
+A 1042 Task_1042 Success
+A 1043 Task_1043 Fail
+A 1044 Task_1044 Success
+A 1045 Task_1045 Fail
+A 1046 Task_1046 Success
+A 1047 Task_1047 Fail
+A 1048 Task_1048 Success
+A 1049 Task_1049 Fail
+A 1050 Task_1050 Success
+A 1051 Task_1051 Fail
+A 1052 Task_1052 Success
+A 1053 Task_1053 Fail
+A 1054 Task_1054 Success
+A 1055 Task_1055 Fail
+A 1056 Task_1056 Success
+A 1057 Task_1057 Fail
+A 1058 Task_1058 Success
+A 1059 Task_1059 Fail
+A 1060 Task_1060 Success
+A 1061 Task_1061 Fail
+A 1062 Task_1062 Success
+A 1063 Task_1063 Fail
+A 1064 Task_1064 Success
+A 1065 Task_1065 Fail
+A 1066 Task_1066 Success
+A 1067 Task_1067 Fail
+A 1068 Task_1068 Success
+A 1069 Task_1069 Fail
+A 1070 Task_1070 Success
+A 1071 Task_1071 Fail
+A 1072 Task_1072 Success
+A 1073 Task_1073 Fail
+A 1074 Task_1074 Success
+A 1075 Task_1075 Fail
+A 1076 Task_1076 Success
+A 1077 Task_1077 Fail
+A 1078 Task_1078 Success
+A 1079 Task_1079 Fail
+A 1080 Task_1080 Success
+A 1081 Task_1081 Fail
+A 1082 Task_1082 Success
+A 1083 Task_1083 Fail
+A 1084 Task_1084 Success
+A 1085 Task_1085 Fail
+A 1086 Task_1086 Success
+A 1087 Task_1087 Fail
+A 1088 Task_1088 Success
+A 1089 Task_1089 Fail
+A 1090 Task_1090 Success
+A 1091 Task_1091 Fail
+A 1092 Task_1092 Success
+A 1093 Task_1093 Fail
+A 1094 Task_1094 Success
+A 1095 Task_1095 Fail
+A 1096 Task_1096 Success
+A 1097 Task_1097 Fail
+A 1098 Task_1098 Success
+A 1099 Task_1099 Fail
+
+# --- FIND (Valid and Invalid) ---
+F 1000
+F 1050
+F 1099
+F 9999 
+# --- REMOVE SOME BLOCKS ---
+R 1003
+R 1011
+R 1025
+R 1049
+R 1065
+R 1087
+R 1099
+R 8888
+
+# --- PRINT CHAIN FORWARD ---
+P
+
+# --- PRINT CHAIN REVERSE ---
+PR
+
+# --- SORT BY TYPE ---
+S Success
+P
+S Fail
+P
+
+# --- FINAL CHAIN PRINT ---
+P

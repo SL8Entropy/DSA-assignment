@@ -1,0 +1,26 @@
+A 1 Steins;Gate anime
+A 2 DSA_questions study
+A 3 小市民シリーズ anime
+A 4 DBMS_notes study
+A 5 君の名は anime
+A 6 AI_paper study
+A 7 Blockchain101 study
+A 8 おれがいる anime
+A 9 CV_notes study
+A 10 死ノート anime
+
+P
+F 6
+F 100
+
+R 2
+R 8
+R 99
+
+PR
+
+S anime
+
+S study
+
+P

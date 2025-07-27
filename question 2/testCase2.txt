@@ -1,0 +1,64 @@
+# -- ADD BLOCKS --
+A 100 alpha Success
+A 101 beta Success
+A 102 gamma Fail
+A 103 delta Success
+A 104 epsilon Fail
+A 105 zeta Success
+A 106 eta Fail
+A 107 theta Success
+A 108 iota Fail
+A 109 kappa Success
+A 110 lambda Fail
+A 111 mu Success
+A 112 nu Fail
+A 113 xi Success
+A 114 omicron Fail
+A 115 pi Success
+A 116 rho Fail
+A 117 sigma Success
+A 118 tau Fail
+A 119 upsilon Success
+A 120 phi Fail
+A 121 chi Success
+A 122 psi Fail
+A 123 omega Success
+A 124 aleph Fail
+A 125 beth Success
+A 126 gimel Fail
+A 127 daleth Success
+A 128 he Fail
+A 129 waw Success
+
+# -- FIND VALID IDS --
+F 100
+F 105
+F 115
+F 125
+
+# -- FIND INVALID IDS --
+F 200
+F 999
+
+# -- REMOVE VALID BLOCKS --
+R 102
+R 110
+R 118
+R 124
+
+# -- REMOVE INVALID BLOCKS --
+R 777
+R 999
+
+# -- PRINT CURRENT CHAIN --
+P
+
+# -- PRINT REVERSE --
+PR
+
+# -- SORT BY TYPE --
+S Success
+S Fail
+
+# -- FINAL STATE PRINT --
+P

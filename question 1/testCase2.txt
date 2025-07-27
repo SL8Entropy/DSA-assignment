@@ -1,0 +1,33 @@
+A 1 Steins;Gate anime
+A 2 DSA_questions anime
+A 3 小市民シリーズ anime
+A 4 DBMSMockTest study
+A 5 天気の子 anime
+A 6 サニーボーイ anime
+A 7 Notes study
+A 8 暗号理論 anime
+A 9 ココロコネクト anime
+A 10 MachineLearning study
+A 11 ゾッム百 anime
+
+R 99
+R 7
+
+F 1
+F 9
+F 100
+
+P
+
+A 5 天気の子 anime  
+A 12 ヨルシカ anime
+A 13 日本語を練習しろ study
+A 14 トモダチゲーム anime
+A 15 演習問題集 study
+
+PR
+
+S anime
+S study
+
+P
